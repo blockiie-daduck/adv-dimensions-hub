@@ -1,0 +1,23 @@
+name: Spec update
+description: A platform spec in the toolkit is wrong, missing, or out of date
+title: "Spec update: "
+labels: ["spec"]
+body:
+  - type: input
+    id: platform
+    attributes:
+      label: Platform / publication
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong or missing?
+      description: Include the correct value (size, file type, file-size limit, rule).
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source link
+      description: Link to the platform's help page or rate card showing the current spec.

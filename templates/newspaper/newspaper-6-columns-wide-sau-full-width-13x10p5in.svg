@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="13in" height="10.5in" viewBox="0 0 2600 2100">
+<title>Newspaper 6 Columns wide (SAU, full width) (13x10.5 in)</title>
+<desc>Newspaper 6 Columns wide (SAU, full width) (13x10.5 in) | CMYK | 200 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="2600" height="2100" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="51.5" y="51.5" width="2497" height="1997" fill="none" stroke="rgb(30,170,80)" stroke-width="3"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="1.5" y="1.5" width="2597" height="2097" fill="none" stroke="rgb(0,150,220)" stroke-width="3"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="1300" y1="0" x2="1300" y2="2100" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+<line x1="0" y1="1050" x2="2600" y2="1050" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+</g>
+</svg>

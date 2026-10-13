@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="1080px" height="1920px" viewBox="0 0 1080 1920">
+<title>IAB Standard Display 1080x1920</title>
+<desc>IAB Standard Display 1080x1920 | RGB | 72 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="1080" height="1920" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="55" y="55" width="970" height="1810" fill="none" stroke="rgb(30,170,80)" stroke-width="2"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="1" y="1" width="1078" height="1918" fill="none" stroke="rgb(0,150,220)" stroke-width="2"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="540" y1="0" x2="540" y2="1920" stroke="rgb(160,90,220)" stroke-width="2" stroke-dasharray="12 8"/>
+<line x1="0" y1="960" x2="1080" y2="960" stroke="rgb(160,90,220)" stroke-width="2" stroke-dasharray="12 8"/>
+</g>
+</svg>

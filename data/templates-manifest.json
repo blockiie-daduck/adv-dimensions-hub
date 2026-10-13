@@ -1,0 +1,2770 @@
+{
+ "zoominfo-dsp": {
+  "sizes": [
+   {
+    "key": "300x250",
+    "w": 300,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x250.png"
+     }
+    ]
+   },
+   {
+    "key": "336x280",
+    "w": 336,
+    "h": 280,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-336x280.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-336x280.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-336x280.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-336x280.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-336x280.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-336x280.png"
+     }
+    ]
+   },
+   {
+    "key": "728x90",
+    "w": 728,
+    "h": 90,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-728x90.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-728x90.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-728x90.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-728x90.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-728x90.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-728x90.png"
+     }
+    ]
+   },
+   {
+    "key": "300x600",
+    "w": 300,
+    "h": 600,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x600.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x600.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x600.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x600.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x600.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x600.png"
+     }
+    ]
+   },
+   {
+    "key": "160x600",
+    "w": 160,
+    "h": 600,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-160x600.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-160x600.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-160x600.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-160x600.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-160x600.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-160x600.png"
+     }
+    ]
+   },
+   {
+    "key": "970x250",
+    "w": 970,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-970x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-970x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-970x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-970x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-970x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-970x250.png"
+     }
+    ]
+   },
+   {
+    "key": "320x50",
+    "w": 320,
+    "h": 50,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-320x50.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-320x50.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-320x50.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-320x50.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-320x50.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-320x50.png"
+     }
+    ]
+   },
+   {
+    "key": "300x50",
+    "w": 300,
+    "h": 50,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x50.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x50.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x50.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x50.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x50.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/zoominfo-dsp/zoominfo-dsp-300x50.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/zoominfo-dsp/zoominfo-dsp-all-templates.zip"
+ },
+ "google-ads": {
+  "sizes": [
+   {
+    "key": "300x250",
+    "w": 300,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-300x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-300x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-300x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-300x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-300x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-300x250.png"
+     }
+    ]
+   },
+   {
+    "key": "336x280",
+    "w": 336,
+    "h": 280,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-336x280.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-336x280.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-336x280.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-336x280.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-336x280.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-336x280.png"
+     }
+    ]
+   },
+   {
+    "key": "728x90",
+    "w": 728,
+    "h": 90,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-728x90.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-728x90.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-728x90.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-728x90.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-728x90.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-728x90.png"
+     }
+    ]
+   },
+   {
+    "key": "300x600",
+    "w": 300,
+    "h": 600,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-300x600.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-300x600.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-300x600.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-300x600.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-300x600.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-300x600.png"
+     }
+    ]
+   },
+   {
+    "key": "160x600",
+    "w": 160,
+    "h": 600,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-160x600.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-160x600.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-160x600.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-160x600.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-160x600.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-160x600.png"
+     }
+    ]
+   },
+   {
+    "key": "970x250",
+    "w": 970,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-970x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-970x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-970x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-970x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-970x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-970x250.png"
+     }
+    ]
+   },
+   {
+    "key": "320x100",
+    "w": 320,
+    "h": 100,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-320x100.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-320x100.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-320x100.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-320x100.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-320x100.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-320x100.png"
+     }
+    ]
+   },
+   {
+    "key": "1200x628",
+    "w": 1200,
+    "h": 628,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/google-ads/google-ads-1200x628.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/google-ads/google-ads-1200x628.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/google-ads/google-ads-1200x628.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/google-ads/google-ads-1200x628.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/google-ads/google-ads-1200x628.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/google-ads/google-ads-1200x628.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/google-ads/google-ads-all-templates.zip"
+ },
+ "meta-facebook": {
+  "sizes": [
+   {
+    "key": "1440x1800",
+    "w": 1440,
+    "h": 1800,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/meta-facebook/meta-facebook-1440x1800.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/meta-facebook/meta-facebook-1440x1800.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/meta-facebook/meta-facebook-1440x1800.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/meta-facebook/meta-facebook-1440x1800.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/meta-facebook/meta-facebook-1440x1800.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/meta-facebook/meta-facebook-1440x1800.png"
+     }
+    ]
+   },
+   {
+    "key": "1440x2560",
+    "w": 1440,
+    "h": 2560,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/meta-facebook/meta-facebook-1440x2560.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/meta-facebook/meta-facebook-1440x2560.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/meta-facebook/meta-facebook-1440x2560.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/meta-facebook/meta-facebook-1440x2560.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/meta-facebook/meta-facebook-1440x2560.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/meta-facebook/meta-facebook-1440x2560.png"
+     }
+    ]
+   },
+   {
+    "key": "1080x1080",
+    "w": 1080,
+    "h": 1080,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/meta-facebook/meta-facebook-1080x1080.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/meta-facebook/meta-facebook-1080x1080.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/meta-facebook/meta-facebook-1080x1080.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/meta-facebook/meta-facebook-1080x1080.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/meta-facebook/meta-facebook-1080x1080.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/meta-facebook/meta-facebook-1080x1080.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/meta-facebook/meta-facebook-all-templates.zip"
+ },
+ "meta-instagram": {
+  "sizes": [
+   {
+    "key": "1440x1800",
+    "w": 1440,
+    "h": 1800,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/meta-instagram/meta-instagram-1440x1800.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/meta-instagram/meta-instagram-1440x1800.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/meta-instagram/meta-instagram-1440x1800.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/meta-instagram/meta-instagram-1440x1800.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/meta-instagram/meta-instagram-1440x1800.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/meta-instagram/meta-instagram-1440x1800.png"
+     }
+    ]
+   },
+   {
+    "key": "1440x2560",
+    "w": 1440,
+    "h": 2560,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560.png"
+     }
+    ]
+   },
+   {
+    "key": "1440x2560-2",
+    "w": 1440,
+    "h": 2560,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560-2.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560-2.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560-2.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560-2.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560-2.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/meta-instagram/meta-instagram-1440x2560-2.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/meta-instagram/meta-instagram-all-templates.zip"
+ },
+ "youtube": {
+  "sizes": [
+   {
+    "key": "300x60",
+    "w": 300,
+    "h": 60,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/youtube/youtube-300x60.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/youtube/youtube-300x60.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/youtube/youtube-300x60.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/youtube/youtube-300x60.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/youtube/youtube-300x60.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/youtube/youtube-300x60.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/youtube/youtube-all-templates.zip"
+ },
+ "linkedin": {
+  "sizes": [
+   {
+    "key": "1200x628",
+    "w": 1200,
+    "h": 628,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/linkedin/linkedin-1200x628.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/linkedin/linkedin-1200x628.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/linkedin/linkedin-1200x628.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/linkedin/linkedin-1200x628.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/linkedin/linkedin-1200x628.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/linkedin/linkedin-1200x628.png"
+     }
+    ]
+   },
+   {
+    "key": "1200x1200",
+    "w": 1200,
+    "h": 1200,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/linkedin/linkedin-1200x1200.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/linkedin/linkedin-1200x1200.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/linkedin/linkedin-1200x1200.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/linkedin/linkedin-1200x1200.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/linkedin/linkedin-1200x1200.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/linkedin/linkedin-1200x1200.png"
+     }
+    ]
+   },
+   {
+    "key": "720x900",
+    "w": 720,
+    "h": 900,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/linkedin/linkedin-720x900.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/linkedin/linkedin-720x900.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/linkedin/linkedin-720x900.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/linkedin/linkedin-720x900.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/linkedin/linkedin-720x900.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/linkedin/linkedin-720x900.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/linkedin/linkedin-all-templates.zip"
+ },
+ "amazon-ads": {
+  "sizes": [
+   {
+    "key": "300x250",
+    "w": 300,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/amazon-ads/amazon-ads-300x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/amazon-ads/amazon-ads-300x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/amazon-ads/amazon-ads-300x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/amazon-ads/amazon-ads-300x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/amazon-ads/amazon-ads-300x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/amazon-ads/amazon-ads-300x250.png"
+     }
+    ]
+   },
+   {
+    "key": "728x90",
+    "w": 728,
+    "h": 90,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/amazon-ads/amazon-ads-728x90.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/amazon-ads/amazon-ads-728x90.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/amazon-ads/amazon-ads-728x90.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/amazon-ads/amazon-ads-728x90.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/amazon-ads/amazon-ads-728x90.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/amazon-ads/amazon-ads-728x90.png"
+     }
+    ]
+   },
+   {
+    "key": "160x600",
+    "w": 160,
+    "h": 600,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/amazon-ads/amazon-ads-160x600.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/amazon-ads/amazon-ads-160x600.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/amazon-ads/amazon-ads-160x600.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/amazon-ads/amazon-ads-160x600.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/amazon-ads/amazon-ads-160x600.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/amazon-ads/amazon-ads-160x600.png"
+     }
+    ]
+   },
+   {
+    "key": "300x600",
+    "w": 300,
+    "h": 600,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/amazon-ads/amazon-ads-300x600.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/amazon-ads/amazon-ads-300x600.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/amazon-ads/amazon-ads-300x600.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/amazon-ads/amazon-ads-300x600.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/amazon-ads/amazon-ads-300x600.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/amazon-ads/amazon-ads-300x600.png"
+     }
+    ]
+   },
+   {
+    "key": "970x250",
+    "w": 970,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/amazon-ads/amazon-ads-970x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/amazon-ads/amazon-ads-970x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/amazon-ads/amazon-ads-970x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/amazon-ads/amazon-ads-970x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/amazon-ads/amazon-ads-970x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/amazon-ads/amazon-ads-970x250.png"
+     }
+    ]
+   },
+   {
+    "key": "320x50",
+    "w": 320,
+    "h": 50,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/amazon-ads/amazon-ads-320x50.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/amazon-ads/amazon-ads-320x50.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/amazon-ads/amazon-ads-320x50.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/amazon-ads/amazon-ads-320x50.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/amazon-ads/amazon-ads-320x50.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/amazon-ads/amazon-ads-320x50.png"
+     }
+    ]
+   },
+   {
+    "key": "414x125",
+    "w": 414,
+    "h": 125,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/amazon-ads/amazon-ads-414x125.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/amazon-ads/amazon-ads-414x125.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/amazon-ads/amazon-ads-414x125.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/amazon-ads/amazon-ads-414x125.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/amazon-ads/amazon-ads-414x125.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/amazon-ads/amazon-ads-414x125.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/amazon-ads/amazon-ads-all-templates.zip"
+ },
+ "microsoft-ads": {
+  "sizes": [
+   {
+    "key": "1200x628",
+    "w": 1200,
+    "h": 628,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x628.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x628.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x628.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x628.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x628.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x628.png"
+     }
+    ]
+   },
+   {
+    "key": "1200x1200",
+    "w": 1200,
+    "h": 1200,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x1200.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x1200.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x1200.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x1200.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x1200.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/microsoft-ads/microsoft-ads-1200x1200.png"
+     }
+    ]
+   },
+   {
+    "key": "608x152",
+    "w": 608,
+    "h": 152,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/microsoft-ads/microsoft-ads-608x152.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/microsoft-ads/microsoft-ads-608x152.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/microsoft-ads/microsoft-ads-608x152.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/microsoft-ads/microsoft-ads-608x152.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/microsoft-ads/microsoft-ads-608x152.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/microsoft-ads/microsoft-ads-608x152.png"
+     }
+    ]
+   },
+   {
+    "key": "470x940",
+    "w": 470,
+    "h": 940,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/microsoft-ads/microsoft-ads-470x940.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/microsoft-ads/microsoft-ads-470x940.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/microsoft-ads/microsoft-ads-470x940.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/microsoft-ads/microsoft-ads-470x940.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/microsoft-ads/microsoft-ads-470x940.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/microsoft-ads/microsoft-ads-470x940.png"
+     }
+    ]
+   },
+   {
+    "key": "512x128",
+    "w": 512,
+    "h": 128,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/microsoft-ads/microsoft-ads-512x128.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/microsoft-ads/microsoft-ads-512x128.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/microsoft-ads/microsoft-ads-512x128.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/microsoft-ads/microsoft-ads-512x128.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/microsoft-ads/microsoft-ads-512x128.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/microsoft-ads/microsoft-ads-512x128.png"
+     }
+    ]
+   },
+   {
+    "key": "128x128",
+    "w": 128,
+    "h": 128,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/microsoft-ads/microsoft-ads-128x128.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/microsoft-ads/microsoft-ads-128x128.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/microsoft-ads/microsoft-ads-128x128.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/microsoft-ads/microsoft-ads-128x128.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/microsoft-ads/microsoft-ads-128x128.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/microsoft-ads/microsoft-ads-128x128.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/microsoft-ads/microsoft-ads-all-templates.zip"
+ },
+ "tiktok-ads": {
+  "sizes": [
+   {
+    "key": "720x1280",
+    "w": 720,
+    "h": 1280,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/tiktok-ads/tiktok-ads-720x1280.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/tiktok-ads/tiktok-ads-720x1280.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/tiktok-ads/tiktok-ads-720x1280.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/tiktok-ads/tiktok-ads-720x1280.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/tiktok-ads/tiktok-ads-720x1280.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/tiktok-ads/tiktok-ads-720x1280.png"
+     }
+    ]
+   },
+   {
+    "key": "1200x628",
+    "w": 1200,
+    "h": 628,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/tiktok-ads/tiktok-ads-1200x628.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/tiktok-ads/tiktok-ads-1200x628.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/tiktok-ads/tiktok-ads-1200x628.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/tiktok-ads/tiktok-ads-1200x628.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/tiktok-ads/tiktok-ads-1200x628.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/tiktok-ads/tiktok-ads-1200x628.png"
+     }
+    ]
+   },
+   {
+    "key": "640x640",
+    "w": 640,
+    "h": 640,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/tiktok-ads/tiktok-ads-640x640.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/tiktok-ads/tiktok-ads-640x640.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/tiktok-ads/tiktok-ads-640x640.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/tiktok-ads/tiktok-ads-640x640.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/tiktok-ads/tiktok-ads-640x640.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/tiktok-ads/tiktok-ads-640x640.png"
+     }
+    ]
+   },
+   {
+    "key": "600x500",
+    "w": 600,
+    "h": 500,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/tiktok-ads/tiktok-ads-600x500.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/tiktok-ads/tiktok-ads-600x500.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/tiktok-ads/tiktok-ads-600x500.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/tiktok-ads/tiktok-ads-600x500.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/tiktok-ads/tiktok-ads-600x500.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/tiktok-ads/tiktok-ads-600x500.png"
+     }
+    ]
+   },
+   {
+    "key": "640x200",
+    "w": 640,
+    "h": 200,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/tiktok-ads/tiktok-ads-640x200.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/tiktok-ads/tiktok-ads-640x200.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/tiktok-ads/tiktok-ads-640x200.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/tiktok-ads/tiktok-ads-640x200.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/tiktok-ads/tiktok-ads-640x200.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/tiktok-ads/tiktok-ads-640x200.png"
+     }
+    ]
+   },
+   {
+    "key": "640x100",
+    "w": 640,
+    "h": 100,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/tiktok-ads/tiktok-ads-640x100.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/tiktok-ads/tiktok-ads-640x100.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/tiktok-ads/tiktok-ads-640x100.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/tiktok-ads/tiktok-ads-640x100.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/tiktok-ads/tiktok-ads-640x100.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/tiktok-ads/tiktok-ads-640x100.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/tiktok-ads/tiktok-ads-all-templates.zip"
+ },
+ "x-ads": {
+  "sizes": [
+   {
+    "key": "800x418",
+    "w": 800,
+    "h": 418,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/x-ads/x-ads-800x418.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/x-ads/x-ads-800x418.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/x-ads/x-ads-800x418.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/x-ads/x-ads-800x418.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/x-ads/x-ads-800x418.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/x-ads/x-ads-800x418.png"
+     }
+    ]
+   },
+   {
+    "key": "800x800",
+    "w": 800,
+    "h": 800,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/x-ads/x-ads-800x800.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/x-ads/x-ads-800x800.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/x-ads/x-ads-800x800.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/x-ads/x-ads-800x800.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/x-ads/x-ads-800x800.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/x-ads/x-ads-800x800.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/x-ads/x-ads-all-templates.zip"
+ },
+ "pinterest-ads": {
+  "sizes": [
+   {
+    "key": "1000x1500",
+    "w": 1000,
+    "h": 1500,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/pinterest-ads/pinterest-ads-1000x1500.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/pinterest-ads/pinterest-ads-1000x1500.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/pinterest-ads/pinterest-ads-1000x1500.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/pinterest-ads/pinterest-ads-1000x1500.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/pinterest-ads/pinterest-ads-1000x1500.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/pinterest-ads/pinterest-ads-1000x1500.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/pinterest-ads/pinterest-ads-all-templates.zip"
+ },
+ "iab-standard": {
+  "sizes": [
+   {
+    "key": "300x250",
+    "w": 300,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-300x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-300x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-300x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-300x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-300x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-300x250.png"
+     }
+    ]
+   },
+   {
+    "key": "728x90",
+    "w": 728,
+    "h": 90,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-728x90.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-728x90.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-728x90.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-728x90.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-728x90.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-728x90.png"
+     }
+    ]
+   },
+   {
+    "key": "970x250",
+    "w": 970,
+    "h": 250,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-970x250.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-970x250.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-970x250.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-970x250.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-970x250.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-970x250.png"
+     }
+    ]
+   },
+   {
+    "key": "160x600",
+    "w": 160,
+    "h": 600,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-160x600.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-160x600.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-160x600.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-160x600.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-160x600.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-160x600.png"
+     }
+    ]
+   },
+   {
+    "key": "300x1050",
+    "w": 300,
+    "h": 1050,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-300x1050.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-300x1050.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-300x1050.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-300x1050.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-300x1050.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-300x1050.png"
+     }
+    ]
+   },
+   {
+    "key": "970x90",
+    "w": 970,
+    "h": 90,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-970x90.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-970x90.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-970x90.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-970x90.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-970x90.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-970x90.png"
+     }
+    ]
+   },
+   {
+    "key": "320x50",
+    "w": 320,
+    "h": 50,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-320x50.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-320x50.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-320x50.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-320x50.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-320x50.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-320x50.png"
+     }
+    ]
+   },
+   {
+    "key": "1080x1920",
+    "w": 1080,
+    "h": 1920,
+    "dpi": 72,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/iab-standard/iab-standard-1080x1920.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/iab-standard/iab-standard-1080x1920.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/iab-standard/iab-standard-1080x1920.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/iab-standard/iab-standard-1080x1920.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/iab-standard/iab-standard-1080x1920.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/iab-standard/iab-standard-1080x1920.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/iab-standard/iab-standard-all-templates.zip"
+ },
+ "magazine": {
+  "sizes": [
+   {
+    "key": "full-page-8p5x11in",
+    "w": 2625,
+    "h": 3375,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/magazine/magazine-full-page-8p5x11in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/magazine/magazine-full-page-8p5x11in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/magazine/magazine-full-page-8p5x11in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/magazine/magazine-full-page-8p5x11in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/magazine/magazine-full-page-8p5x11in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/magazine/magazine-full-page-8p5x11in.png"
+     }
+    ]
+   },
+   {
+    "key": "half-page-horizontal-7x4p75in",
+    "w": 2175,
+    "h": 1500,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/magazine/magazine-half-page-horizontal-7x4p75in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/magazine/magazine-half-page-horizontal-7x4p75in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/magazine/magazine-half-page-horizontal-7x4p75in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/magazine/magazine-half-page-horizontal-7x4p75in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/magazine/magazine-half-page-horizontal-7x4p75in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/magazine/magazine-half-page-horizontal-7x4p75in.png"
+     }
+    ]
+   },
+   {
+    "key": "half-page-vertical-3p375x10in",
+    "w": 1088,
+    "h": 3075,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/magazine/magazine-half-page-vertical-3p375x10in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/magazine/magazine-half-page-vertical-3p375x10in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/magazine/magazine-half-page-vertical-3p375x10in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/magazine/magazine-half-page-vertical-3p375x10in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/magazine/magazine-half-page-vertical-3p375x10in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/magazine/magazine-half-page-vertical-3p375x10in.png"
+     }
+    ]
+   },
+   {
+    "key": "two-page-spread-17x11in",
+    "w": 5175,
+    "h": 3375,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/magazine/magazine-two-page-spread-17x11in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/magazine/magazine-two-page-spread-17x11in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/magazine/magazine-two-page-spread-17x11in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/magazine/magazine-two-page-spread-17x11in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/magazine/magazine-two-page-spread-17x11in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/magazine/magazine-two-page-spread-17x11in.png"
+     }
+    ]
+   },
+   {
+    "key": "quarter-page-3p375x4p75in",
+    "w": 1088,
+    "h": 1500,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/magazine/magazine-quarter-page-3p375x4p75in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/magazine/magazine-quarter-page-3p375x4p75in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/magazine/magazine-quarter-page-3p375x4p75in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/magazine/magazine-quarter-page-3p375x4p75in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/magazine/magazine-quarter-page-3p375x4p75in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/magazine/magazine-quarter-page-3p375x4p75in.png"
+     }
+    ]
+   },
+   {
+    "key": "digest-full-page-5p5x8p5in",
+    "w": 1725,
+    "h": 2625,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/magazine/magazine-digest-full-page-5p5x8p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/magazine/magazine-digest-full-page-5p5x8p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/magazine/magazine-digest-full-page-5p5x8p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/magazine/magazine-digest-full-page-5p5x8p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/magazine/magazine-digest-full-page-5p5x8p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/magazine/magazine-digest-full-page-5p5x8p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "full-page-7-875-x-10-5-trim-7p875x10p5in",
+    "w": 2438,
+    "h": 3225,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/magazine/magazine-full-page-7-875-x-10-5-trim-7p875x10p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/magazine/magazine-full-page-7-875-x-10-5-trim-7p875x10p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/magazine/magazine-full-page-7-875-x-10-5-trim-7p875x10p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/magazine/magazine-full-page-7-875-x-10-5-trim-7p875x10p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/magazine/magazine-full-page-7-875-x-10-5-trim-7p875x10p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/magazine/magazine-full-page-7-875-x-10-5-trim-7p875x10p5in.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/magazine/magazine-all-templates.zip"
+ },
+ "newspaper": {
+  "sizes": [
+   {
+    "key": "1-column-wide-sau-2p062x6in",
+    "w": 412,
+    "h": 1200,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-1-column-wide-sau-2p062x6in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-1-column-wide-sau-2p062x6in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-1-column-wide-sau-2p062x6in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-1-column-wide-sau-2p062x6in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-1-column-wide-sau-2p062x6in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-1-column-wide-sau-2p062x6in.png"
+     }
+    ]
+   },
+   {
+    "key": "2-columns-wide-sau-4p25x5in",
+    "w": 850,
+    "h": 1000,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-2-columns-wide-sau-4p25x5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-2-columns-wide-sau-4p25x5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-2-columns-wide-sau-4p25x5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-2-columns-wide-sau-4p25x5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-2-columns-wide-sau-4p25x5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-2-columns-wide-sau-4p25x5in.png"
+     }
+    ]
+   },
+   {
+    "key": "3-columns-wide-sau-6p438x7in",
+    "w": 1288,
+    "h": 1400,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-3-columns-wide-sau-6p438x7in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-3-columns-wide-sau-6p438x7in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-3-columns-wide-sau-6p438x7in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-3-columns-wide-sau-6p438x7in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-3-columns-wide-sau-6p438x7in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-3-columns-wide-sau-6p438x7in.png"
+     }
+    ]
+   },
+   {
+    "key": "4-columns-wide-sau-8p625x10in",
+    "w": 1725,
+    "h": 2000,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-4-columns-wide-sau-8p625x10in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-4-columns-wide-sau-8p625x10in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-4-columns-wide-sau-8p625x10in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-4-columns-wide-sau-8p625x10in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-4-columns-wide-sau-8p625x10in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-4-columns-wide-sau-8p625x10in.png"
+     }
+    ]
+   },
+   {
+    "key": "5-columns-wide-sau-10p812x10in",
+    "w": 2162,
+    "h": 2000,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-5-columns-wide-sau-10p812x10in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-5-columns-wide-sau-10p812x10in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-5-columns-wide-sau-10p812x10in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-5-columns-wide-sau-10p812x10in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-5-columns-wide-sau-10p812x10in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-5-columns-wide-sau-10p812x10in.png"
+     }
+    ]
+   },
+   {
+    "key": "6-columns-wide-sau-full-width-13x10p5in",
+    "w": 2600,
+    "h": 2100,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-6-columns-wide-sau-full-width-13x10p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-6-columns-wide-sau-full-width-13x10p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-6-columns-wide-sau-full-width-13x10p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-6-columns-wide-sau-full-width-13x10p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-6-columns-wide-sau-full-width-13x10p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-6-columns-wide-sau-full-width-13x10p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "broadsheet-full-page-12x21p5in",
+    "w": 2400,
+    "h": 4300,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-broadsheet-full-page-12x21p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-broadsheet-full-page-12x21p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-broadsheet-full-page-12x21p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-broadsheet-full-page-12x21p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-broadsheet-full-page-12x21p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-broadsheet-full-page-12x21p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "tabloid-full-page-10x13in",
+    "w": 2000,
+    "h": 2600,
+    "dpi": 200,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/newspaper/newspaper-tabloid-full-page-10x13in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/newspaper/newspaper-tabloid-full-page-10x13in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/newspaper/newspaper-tabloid-full-page-10x13in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/newspaper/newspaper-tabloid-full-page-10x13in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/newspaper/newspaper-tabloid-full-page-10x13in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/newspaper/newspaper-tabloid-full-page-10x13in.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/newspaper/newspaper-all-templates.zip"
+ },
+ "trade-publication": {
+  "sizes": [
+   {
+    "key": "full-page-bleed-file-8p125x10p75in",
+    "w": 2512,
+    "h": 3300,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-full-page-bleed-file-8p125x10p75in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-full-page-bleed-file-8p125x10p75in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-full-page-bleed-file-8p125x10p75in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-full-page-bleed-file-8p125x10p75in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-full-page-bleed-file-8p125x10p75in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-full-page-bleed-file-8p125x10p75in.png"
+     }
+    ]
+   },
+   {
+    "key": "full-page-trim-7p875x10p5in",
+    "w": 2438,
+    "h": 3225,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-full-page-trim-7p875x10p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-full-page-trim-7p875x10p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-full-page-trim-7p875x10p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-full-page-trim-7p875x10p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-full-page-trim-7p875x10p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-full-page-trim-7p875x10p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "two-page-spread-bleed-file-16x10p75in",
+    "w": 4875,
+    "h": 3300,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-two-page-spread-bleed-file-16x10p75in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-two-page-spread-bleed-file-16x10p75in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-two-page-spread-bleed-file-16x10p75in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-two-page-spread-bleed-file-16x10p75in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-two-page-spread-bleed-file-16x10p75in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-two-page-spread-bleed-file-16x10p75in.png"
+     }
+    ]
+   },
+   {
+    "key": "2-3-page-4p5x9p5in",
+    "w": 1425,
+    "h": 2925,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-2-3-page-4p5x9p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-2-3-page-4p5x9p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-2-3-page-4p5x9p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-2-3-page-4p5x9p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-2-3-page-4p5x9p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-2-3-page-4p5x9p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "1-2-page-island-4p5x7p5in",
+    "w": 1425,
+    "h": 2325,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-1-2-page-island-4p5x7p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-1-2-page-island-4p5x7p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-1-2-page-island-4p5x7p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-1-2-page-island-4p5x7p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-1-2-page-island-4p5x7p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-1-2-page-island-4p5x7p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "1-2-page-horizontal-6p875x4p625in",
+    "w": 2138,
+    "h": 1462,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-1-2-page-horizontal-6p875x4p625in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-1-2-page-horizontal-6p875x4p625in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-1-2-page-horizontal-6p875x4p625in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-1-2-page-horizontal-6p875x4p625in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-1-2-page-horizontal-6p875x4p625in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-1-2-page-horizontal-6p875x4p625in.png"
+     }
+    ]
+   },
+   {
+    "key": "1-2-page-vertical-3p312x9p5in",
+    "w": 1069,
+    "h": 2925,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-1-2-page-vertical-3p312x9p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-1-2-page-vertical-3p312x9p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-1-2-page-vertical-3p312x9p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-1-2-page-vertical-3p312x9p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-1-2-page-vertical-3p312x9p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-1-2-page-vertical-3p312x9p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "1-3-page-vertical-2p125x9p5in",
+    "w": 712,
+    "h": 2925,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-1-3-page-vertical-2p125x9p5in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-1-3-page-vertical-2p125x9p5in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-1-3-page-vertical-2p125x9p5in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-1-3-page-vertical-2p125x9p5in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-1-3-page-vertical-2p125x9p5in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-1-3-page-vertical-2p125x9p5in.png"
+     }
+    ]
+   },
+   {
+    "key": "1-3-page-square-4p5x4p625in",
+    "w": 1425,
+    "h": 1462,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-1-3-page-square-4p5x4p625in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-1-3-page-square-4p5x4p625in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-1-3-page-square-4p5x4p625in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-1-3-page-square-4p5x4p625in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-1-3-page-square-4p5x4p625in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-1-3-page-square-4p5x4p625in.png"
+     }
+    ]
+   },
+   {
+    "key": "1-4-page-square-3p312x4p625in",
+    "w": 1069,
+    "h": 1462,
+    "dpi": 300,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/trade-publication/trade-publication-1-4-page-square-3p312x4p625in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/trade-publication/trade-publication-1-4-page-square-3p312x4p625in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/trade-publication/trade-publication-1-4-page-square-3p312x4p625in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/trade-publication/trade-publication-1-4-page-square-3p312x4p625in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/trade-publication/trade-publication-1-4-page-square-3p312x4p625in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/trade-publication/trade-publication-1-4-page-square-3p312x4p625in.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/trade-publication/trade-publication-all-templates.zip"
+ },
+ "ooh-print": {
+  "sizes": [
+   {
+    "key": "30-sheet-poster-art-area-approx-269x122in",
+    "w": 5400,
+    "h": 2460,
+    "dpi": 20,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/ooh-print/ooh-print-30-sheet-poster-art-area-approx-269x122in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/ooh-print/ooh-print-30-sheet-poster-art-area-approx-269x122in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/ooh-print/ooh-print-30-sheet-poster-art-area-approx-269x122in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/ooh-print/ooh-print-30-sheet-poster-art-area-approx-269x122in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/ooh-print/ooh-print-30-sheet-poster-art-area-approx-269x122in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/ooh-print/ooh-print-30-sheet-poster-art-area-approx-269x122in.png"
+     }
+    ]
+   },
+   {
+    "key": "bulletin-14-x-48-ft-576x168in",
+    "w": 6924,
+    "h": 2028,
+    "dpi": 12,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/ooh-print/ooh-print-bulletin-14-x-48-ft-576x168in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/ooh-print/ooh-print-bulletin-14-x-48-ft-576x168in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/ooh-print/ooh-print-bulletin-14-x-48-ft-576x168in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/ooh-print/ooh-print-bulletin-14-x-48-ft-576x168in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/ooh-print/ooh-print-bulletin-14-x-48-ft-576x168in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/ooh-print/ooh-print-bulletin-14-x-48-ft-576x168in.png"
+     }
+    ]
+   },
+   {
+    "key": "mini-poster-bus-shelter-4ft-x-6ft-48x72in",
+    "w": 2450,
+    "h": 3650,
+    "dpi": 50,
+    "files": [
+     {
+      "ext": "psd",
+      "path": "templates/ooh-print/ooh-print-mini-poster-bus-shelter-4ft-x-6ft-48x72in.psd"
+     },
+     {
+      "ext": "ai",
+      "path": "templates/ooh-print/ooh-print-mini-poster-bus-shelter-4ft-x-6ft-48x72in.ai"
+     },
+     {
+      "ext": "eps",
+      "path": "templates/ooh-print/ooh-print-mini-poster-bus-shelter-4ft-x-6ft-48x72in.eps"
+     },
+     {
+      "ext": "svg",
+      "path": "templates/ooh-print/ooh-print-mini-poster-bus-shelter-4ft-x-6ft-48x72in.svg"
+     },
+     {
+      "ext": "pdf",
+      "path": "templates/ooh-print/ooh-print-mini-poster-bus-shelter-4ft-x-6ft-48x72in.pdf"
+     },
+     {
+      "ext": "png",
+      "path": "templates/ooh-print/ooh-print-mini-poster-bus-shelter-4ft-x-6ft-48x72in.png"
+     }
+    ]
+   }
+  ],
+  "zip": "templates/ooh-print/ooh-print-all-templates.zip"
+ }
+}

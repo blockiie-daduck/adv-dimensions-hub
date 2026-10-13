@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="1000px" height="1500px" viewBox="0 0 1000 1500">
+<title>Pinterest Ads 1000x1500</title>
+<desc>Pinterest Ads 1000x1500 | RGB | 72 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="1000" height="1500" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="51" y="51" width="898" height="1398" fill="none" stroke="rgb(30,170,80)" stroke-width="2"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="1" y="1" width="998" height="1498" fill="none" stroke="rgb(0,150,220)" stroke-width="2"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="500" y1="0" x2="500" y2="1500" stroke="rgb(160,90,220)" stroke-width="2" stroke-dasharray="12 8"/>
+<line x1="0" y1="750" x2="1000" y2="750" stroke="rgb(160,90,220)" stroke-width="2" stroke-dasharray="12 8"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="49in" height="73in" viewBox="0 0 2450 3650">
+<title>Out-of-Home Print Poster Mini-Poster / Bus Shelter (4ft x 6ft) (48x72 in)</title>
+<desc>Out-of-Home Print Poster Mini-Poster / Bus Shelter (4ft x 6ft) (48x72 in) | CMYK | 50 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="2450" height="3650" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="76.5" y="76.5" width="2297" height="3497" fill="none" stroke="rgb(30,170,80)" stroke-width="3"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="26.5" y="26.5" width="2397" height="3597" fill="none" stroke="rgb(0,150,220)" stroke-width="3"/>
+</g>
+<g id="Bleed" inkscape:groupmode="layer" inkscape:label="Bleed" sodipodi:insensitive="true">
+<rect x="1.5" y="1.5" width="2447" height="3647" fill="none" stroke="rgb(237,28,36)" stroke-width="3"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="1225" y1="25" x2="1225" y2="3625" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+<line x1="25" y1="1825" x2="2425" y2="1825" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+</g>
+</svg>

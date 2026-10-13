@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="300px" height="250px" viewBox="0 0 300 250">
+<title>ZoomInfo DSP 300x250</title>
+<desc>ZoomInfo DSP 300x250 | RGB | 72 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="300" height="250" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="12.5" y="12.5" width="275" height="225" fill="none" stroke="rgb(30,170,80)" stroke-width="1"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="0.5" y="0.5" width="299" height="249" fill="none" stroke="rgb(0,150,220)" stroke-width="1"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="150" y1="0" x2="150" y2="250" stroke="rgb(160,90,220)" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="0" y1="125" x2="300" y2="125" stroke="rgb(160,90,220)" stroke-width="1" stroke-dasharray="6 4"/>
+</g>
+</svg>

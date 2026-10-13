@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="3.625in" height="10.25in" viewBox="0 0 1087.5 3075">
+<title>Magazine Half Page Vertical (3.375x10 in)</title>
+<desc>Magazine Half Page Vertical (3.375x10 in) | CMYK | 300 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="1087.5" height="3075" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="114" y="114" width="859.5" height="2847" fill="none" stroke="rgb(30,170,80)" stroke-width="3"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="39" y="39" width="1009.5" height="2997" fill="none" stroke="rgb(0,150,220)" stroke-width="3"/>
+</g>
+<g id="Bleed" inkscape:groupmode="layer" inkscape:label="Bleed" sodipodi:insensitive="true">
+<rect x="1.5" y="1.5" width="1084.5" height="3072" fill="none" stroke="rgb(237,28,36)" stroke-width="3"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="543.75" y1="37.5" x2="543.75" y2="3037.5" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+<line x1="37.5" y1="1537.5" x2="1050" y2="1537.5" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+</g>
+</svg>

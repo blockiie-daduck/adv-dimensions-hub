@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="800px" height="800px" viewBox="0 0 800 800">
+<title>X (Twitter) Ads 800x800</title>
+<desc>X (Twitter) Ads 800x800 | RGB | 72 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="800" height="800" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="40.5" y="40.5" width="719" height="719" fill="none" stroke="rgb(30,170,80)" stroke-width="1"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="0.5" y="0.5" width="799" height="799" fill="none" stroke="rgb(0,150,220)" stroke-width="1"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="400" y1="0" x2="400" y2="800" stroke="rgb(160,90,220)" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="0" y1="400" x2="800" y2="400" stroke="rgb(160,90,220)" stroke-width="1" stroke-dasharray="6 4"/>
+</g>
+</svg>

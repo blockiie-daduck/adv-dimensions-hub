@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="600px" height="500px" viewBox="0 0 600 500">
+<title>TikTok Ads 600x500</title>
+<desc>TikTok Ads 600x500 | RGB | 72 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="600" height="500" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="25.5" y="25.5" width="549" height="449" fill="none" stroke="rgb(30,170,80)" stroke-width="1"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="0.5" y="0.5" width="599" height="499" fill="none" stroke="rgb(0,150,220)" stroke-width="1"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="300" y1="0" x2="300" y2="500" stroke="rgb(160,90,220)" stroke-width="1" stroke-dasharray="6 4"/>
+<line x1="0" y1="250" x2="600" y2="250" stroke="rgb(160,90,220)" stroke-width="1" stroke-dasharray="6 4"/>
+</g>
+</svg>

@@ -1,0 +1,40 @@
+{
+  "presets": {
+    "digital": {
+      "label": "Digital display",
+      "colorMode": "RGB",
+      "colorProfile": "sRGB IEC61966-2.1",
+      "dpi": 72,
+      "bleed": "None",
+      "bleedIn": 0,
+      "safeNote": "Keep key content inside the Safe Zone guide (inset ~5% of the shorter side)."
+    },
+    "editorial": {
+      "label": "Editorial / print",
+      "colorMode": "CMYK",
+      "colorProfile": "SWOP / GRACoL (confirm with publication)",
+      "dpi": 300,
+      "bleed": "0.125 in (3 mm)",
+      "bleedIn": 0.125,
+      "safeNote": "Keep key content at least 0.25 in inside the trim line."
+    }
+  },
+  "guideColors": {
+    "bleed": { "name": "Bleed", "rgb": [237, 28, 36], "cmyk": [0, 100, 100, 0] },
+    "trim": { "name": "Trim", "rgb": [0, 150, 220], "cmyk": [100, 20, 0, 0] },
+    "safe": { "name": "Safe Zone", "rgb": [30, 170, 80], "cmyk": [80, 0, 100, 0] },
+    "ui": { "name": "Platform UI", "rgb": [255, 160, 0], "cmyk": [0, 45, 100, 0] },
+    "guides": { "name": "Guides", "rgb": [160, 90, 220], "cmyk": [40, 70, 0, 0] }
+  },
+  "templateFormats": [
+    { "ext": "psd", "label": "PSD", "tools": "Photoshop, Affinity, Photopea, GIMP", "layers": true, "status": "generated", "applies": ["digital", "editorial"] },
+    { "ext": "ai", "label": "AI", "tools": "Illustrator (PDF-compatible), Affinity, Inkscape", "layers": true, "status": "generated", "applies": ["digital", "editorial"] },
+    { "ext": "eps", "label": "EPS", "tools": "Illustrator, Affinity, CorelDRAW, InDesign", "layers": false, "status": "generated", "applies": ["digital", "editorial"] },
+    { "ext": "svg", "label": "SVG", "tools": "Figma, Sketch, Inkscape, Canva, any browser", "layers": true, "status": "generated", "applies": ["digital", "editorial"] },
+    { "ext": "pdf", "label": "PDF", "tools": "Acrobat, InDesign, Affinity, Canva", "layers": true, "status": "generated", "applies": ["digital", "editorial"] },
+    { "ext": "png", "label": "PNG guides", "tools": "Any tool: transparent guide overlay", "layers": false, "status": "generated", "applies": ["digital", "editorial"] },
+    { "ext": "af", "label": "AF", "tools": "Affinity Designer / Photo / Publisher", "layers": true, "status": "placeholder", "applies": ["digital", "editorial"] },
+    { "ext": "fig", "label": "FIG", "tools": "Figma", "layers": true, "status": "placeholder", "applies": ["digital"] },
+    { "ext": "pdfx", "label": "PDF/X", "tools": "Print-ready PDF/X-1a / X-4 for press", "layers": false, "status": "placeholder", "applies": ["editorial"] }
+  ]
+}

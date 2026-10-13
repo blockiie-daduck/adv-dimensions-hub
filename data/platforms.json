@@ -1,0 +1,1460 @@
+[
+ {
+  "id": "zoominfo-dsp",
+  "section": "digital",
+  "name": "ZoomInfo DSP",
+  "logo": "zoominfo-dsp.png",
+  "summary": "B2B display advertising (ZoomInfo Marketing/MarketingOS) targeting accounts and buyers.",
+  "fileTypes": [
+   ".jpg",
+   ".png",
+   ".gif"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "150 KB",
+  "gif": {
+   "maxSize": "150 KB",
+   "maxDuration": "not specified",
+   "loops": "not specified",
+   "fps": "not specified"
+  },
+  "rules": [
+   "No official public creative spec doc found; sizes below are from a ZoomInfo blog list",
+   "Ad Set creative limit of 150 KB per a 2022 release note (may be outdated)",
+   "Static and animated GIF uploads supported per 2022 release note",
+   "Confirm in the Display Details pane of your account"
+  ],
+  "bestPractices": {
+   "do": [
+    "Build the full accepted size set",
+    "Keep files under 150 KB",
+    "Use a clear CTA and logo",
+    "Reuse creative via Ad Sets"
+   ],
+   "avoid": [
+    "Unlisted sizes",
+    "Heavy animation",
+    "Tiny text on 320x50",
+    "Assuming 2022 limits still apply"
+   ],
+   "tips": [
+    "Ask your ZoomInfo rep for current specs",
+    "IAB sizes cover most inventory",
+    "Lead with 300x250 and 728x90",
+    "Test creative on mobile sizes"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 300,
+    "h": 250,
+    "label": "Medium Rectangle",
+    "retina2x": true
+   },
+   {
+    "w": 336,
+    "h": 280,
+    "label": "Large Rectangle",
+    "retina2x": true
+   },
+   {
+    "w": 728,
+    "h": 90,
+    "label": "Leaderboard",
+    "retina2x": true
+   },
+   {
+    "w": 300,
+    "h": 600,
+    "label": "Half Page",
+    "retina2x": true
+   },
+   {
+    "w": 160,
+    "h": 600,
+    "label": "Wide Skyscraper",
+    "retina2x": true
+   },
+   {
+    "w": 970,
+    "h": 250,
+    "label": "Billboard",
+    "retina2x": true
+   },
+   {
+    "w": 320,
+    "h": 50,
+    "label": "Mobile Leaderboard",
+    "retina2x": true
+   },
+   {
+    "w": 300,
+    "h": 50,
+    "label": "Mobile Banner",
+    "retina2x": true
+   }
+  ],
+  "sources": [
+   "https://pipeline.zoominfo.com/marketing/standard-banner-ad-sizes-guide",
+   "https://tech-docs-library.zoominfo.com/public-marketingos-2022-release-notes.pdf"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "low: no official public spec sheet; sizes from ZoomInfo blog (IAB-standard) and 150 KB from a 2022 release note seen only in a search summary; treat as IAB-standard defaults"
+ },
+ {
+  "id": "google-ads",
+  "section": "digital",
+  "name": "Google Ads",
+  "logo": "google-ads.svg",
+  "summary": "Display ad network (Google Display Network) serving image ads across third-party sites and apps.",
+  "fileTypes": [
+   ".jpg",
+   ".png",
+   ".gif"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "150 KB (uploaded image ads); 5120 KB (responsive display images)",
+  "gif": {
+   "maxSize": "150 KB",
+   "maxDuration": "30 s",
+   "loops": "loop allowed but must stop by 30 s",
+   "fps": "slower than 5 fps"
+  },
+  "rules": [
+   "Uploaded image ads (JPG, PNG, GIF) must be 150 KB or smaller",
+   "Only the accepted pixel sizes are allowed for uploaded image ads",
+   "Animated GIFs must stop after 30 seconds total",
+   "Animated GIFs must run slower than 5 FPS",
+   "Responsive display ads need 1.91:1 and 1:1 images (min 600x314 and 300x300); logos optional",
+   "Responsive display images and logos: 5120 KB max each"
+  ],
+  "bestPractices": {
+   "do": [
+    "Upload 1200x628 and 1200x1200 for responsive ads",
+    "Add 1-15 images per ratio; 5 recommended",
+    "Use a clean, high-quality main image",
+    "Provide square and 4:1 logos"
+   ],
+   "avoid": [
+    "Text overlaid on responsive images",
+    "Collages and excess blank space",
+    "Exceeding 150 KB on uploaded ads",
+    "Fast-flashing GIF animation"
+   ],
+   "tips": [
+    "Responsive ads auto-adapt, so one asset set covers many slots",
+    "Upload 300x250, 336x280, 728x90, 300x600 first for coverage",
+    "Compress to stay under 150 KB without visible banding",
+    "Cap GIF animation well under the 30 s limit"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 300,
+    "h": 250,
+    "label": "Medium Rectangle",
+    "retina2x": true
+   },
+   {
+    "w": 336,
+    "h": 280,
+    "label": "Large Rectangle",
+    "retina2x": true
+   },
+   {
+    "w": 728,
+    "h": 90,
+    "label": "Leaderboard",
+    "retina2x": true
+   },
+   {
+    "w": 300,
+    "h": 600,
+    "label": "Half Page",
+    "retina2x": true
+   },
+   {
+    "w": 160,
+    "h": 600,
+    "label": "Wide Skyscraper",
+    "retina2x": true
+   },
+   {
+    "w": 970,
+    "h": 250,
+    "label": "Billboard",
+    "retina2x": true
+   },
+   {
+    "w": 320,
+    "h": 100,
+    "label": "Large Mobile Banner",
+    "retina2x": true
+   },
+   {
+    "w": 1200,
+    "h": 628,
+    "label": "Responsive landscape (1.91:1)",
+    "retina2x": false,
+    "note": "Recommended; min 600x314"
+   }
+  ],
+  "sources": [
+   "https://support.google.com/google-ads/answer/1722096",
+   "https://support.google.com/google-ads/answer/17090561",
+   "https://support.google.com/google-ads/answer/7031480"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "medium: uploaded-ad sizes, 150 KB and GIF rules fetched from official page; 5120 KB limit and 1200x1200 square came from search summaries of official pages (one page lists 600x600 as recommended square); accepted file types for responsive images not confirmed; retina2x flags are a production suggestion, not Google policy"
+ },
+ {
+  "id": "meta-facebook",
+  "section": "digital",
+  "name": "Meta (Facebook)",
+  "logo": "meta-facebook.svg",
+  "summary": "Image ads in Facebook Feed, Stories and Right Column on Meta's social network.",
+  "fileTypes": [
+   ".jpg",
+   ".png"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "30 MB",
+  "gif": null,
+  "rules": [
+   "Feed, Stories: JPG or PNG, up to 30 MB",
+   "Feed: min width 600 px and min height 750 px at 4:5",
+   "Stories: 9:16 ratio (1% tolerance), min width 500 px",
+   "Right Column: 1:1 ratio, min 254x133 px technical minimum",
+   "Feed headline 27 chars; Right Column headline 40 chars"
+  ],
+  "bestPractices": {
+   "do": [
+    "Use 1440x1800 (4:5) for Feed",
+    "Use 1440x2560 (9:16) for Stories",
+    "Use 1080x1080+ square for Right Column",
+    "Keep Feed primary text to 50-150 characters"
+   ],
+   "avoid": [
+    "Text on Right Column images (too small)",
+    "Key creative in Stories top 14% or bottom 35%",
+    "Ratios outside placement tolerance",
+    "Low-resolution uploads"
+   ],
+   "tips": [
+    "Safe zones are recommendations, not hard rules",
+    "Stories display about 8 s, or until swipe",
+    "Preview every placement in Ads Manager",
+    "Keep side margins of about 6% in Stories"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 1440,
+    "h": 1800,
+    "label": "Feed (4:5)",
+    "retina2x": false,
+    "note": "Recommended; min 600x750"
+   },
+   {
+    "w": 1440,
+    "h": 2560,
+    "label": "Stories (9:16)",
+    "retina2x": false,
+    "note": "Recommended; min width 500",
+    "uiSafeZone": {
+     "top": 358,
+     "bottom": 896,
+     "left": 86,
+     "right": 86
+    }
+   },
+   {
+    "w": 1080,
+    "h": 1080,
+    "label": "Right Column (1:1)",
+    "retina2x": false,
+    "note": "At least 1080x1080 recommended"
+   }
+  ],
+  "sources": [
+   "https://www.facebook.com/business/ads-guide/image",
+   "https://www.facebook.com/business/ads-guide/update/image/facebook-story",
+   "https://www.facebook.com/business/ads-guide/update/image/facebook-right-hand-column"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "medium-high: Feed, Stories, Right Column specs fetched from official Ads Guide; Stories safe zone given by Meta as 14% top / 35% bottom / 6% sides, pixel values computed at 1440x2560; Right Column max file size not listed; GIF not documented for image ads"
+ },
+ {
+  "id": "meta-instagram",
+  "section": "digital",
+  "name": "Instagram",
+  "logo": "meta-instagram.svg",
+  "summary": "Image ads in Instagram Feed, Stories and Reels placed through Meta Ads Manager.",
+  "fileTypes": [
+   ".jpg",
+   ".png"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "30 MB",
+  "gif": null,
+  "rules": [
+   "JPG or PNG, up to 30 MB",
+   "Feed: min width 500 px; ratio between 4:5 and 1.91:1",
+   "Stories and Reels: 9:16 ratio (1% tolerance), min width 500 px",
+   "Reels primary text limit is 44 characters",
+   "Feed primary text 125 chars and headline 40 chars recommended"
+  ],
+  "bestPractices": {
+   "do": [
+    "Use 1440x1800 (4:5) for Feed",
+    "Use 1440x2560 (9:16) for Stories and Reels",
+    "Keep key creative inside the safe zone",
+    "Keep Reels copy short"
+   ],
+   "avoid": [
+    "Text or logos in top 14% or bottom 35%",
+    "Text or logos in outer 6% side margins",
+    "More than 30 hashtags",
+    "Wrong 9:16 ratio (cropping risk)"
+   ],
+   "tips": [
+    "Safe zones are recommendations from Meta",
+    "Stories image ads show 5-16 s or until swipe",
+    "Reuse one 9:16 master for Stories and Reels",
+    "Check each placement in Ads Manager preview"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 1440,
+    "h": 1800,
+    "label": "Feed (4:5)",
+    "retina2x": false,
+    "note": "Recommended; ratio range 4:5 to 1.91:1"
+   },
+   {
+    "w": 1440,
+    "h": 2560,
+    "label": "Stories (9:16)",
+    "retina2x": false,
+    "uiSafeZone": {
+     "top": 358,
+     "bottom": 896,
+     "left": 86,
+     "right": 86
+    }
+   },
+   {
+    "w": 1440,
+    "h": 2560,
+    "label": "Reels (9:16)",
+    "retina2x": false,
+    "uiSafeZone": {
+     "top": 358,
+     "bottom": 896,
+     "left": 86,
+     "right": 86
+    }
+   }
+  ],
+  "sources": [
+   "https://www.facebook.com/business/ads-guide/update/image/instagram-feed",
+   "https://www.facebook.com/business/ads-guide/update/image/instagram-story",
+   "https://www.facebook.com/business/ads-guide/update/image/instagram-reels"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "high for Feed/Stories/Reels spec tables fetched from official Ads Guide; safe zone is percentages (14/35/6) from Meta with pixels computed at 1440x2560; GIF not documented for image ads"
+ },
+ {
+  "id": "youtube",
+  "section": "digital",
+  "name": "YouTube",
+  "logo": "youtube.svg",
+  "summary": "Image-only companion banners that run beside YouTube video ads on desktop.",
+  "fileTypes": [
+   ".jpg",
+   ".png",
+   ".gif"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "150 KB",
+  "gif": {
+   "maxSize": "150 KB",
+   "maxDuration": "not specified",
+   "loops": "not specified",
+   "fps": "under 5 fps (third-party source)"
+  },
+  "rules": [
+   "Companion banner is 300x60 px (5:1)",
+   "JPG, GIF or PNG, under 150 KB",
+   "Desktop only; not shown on mobile or CTV",
+   "Requires a skippable, non-skippable or bumper video ad",
+   "Overlay ads were discontinued April 6, 2023"
+  ],
+  "bestPractices": {
+   "do": [
+    "Export exactly 300x60",
+    "Keep file well under 150 KB",
+    "Use a clear logo and short message",
+    "Match the video ad branding"
+   ],
+   "avoid": [
+    "Dense text at 60 px height",
+    "Fast GIF animation",
+    "Assuming overlay ads still run",
+    "Expecting mobile delivery"
+   ],
+   "tips": [
+    "Auto-generated banner uses your channel art",
+    "Companion appears beside the player on desktop",
+    "If using DV360, check its own spec limits",
+    "Test legibility at actual size"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 300,
+    "h": 60,
+    "label": "Companion Banner",
+    "retina2x": true,
+    "note": "Only YouTube image spec; 5:1"
+   }
+  ],
+  "sources": [
+   "https://support.google.com/google-ads/answer/17091270",
+   "https://support.google.com/google-ads/answer/6293542",
+   "https://support.google.com/youtube/answer/2467968"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "medium-high: 300x60, formats and 150 KB fetched from official Google page, which gives no GIF fps rule (under 5 fps comes from a search summary); overlay discontinuation confirmed; third-party ad-serving policy may cap at 50 KB per search summary, unverified"
+ },
+ {
+  "id": "linkedin",
+  "section": "digital",
+  "name": "LinkedIn",
+  "logo": "linkedin.svg",
+  "summary": "Single image Sponsored Content ads shown in the LinkedIn feed on desktop and mobile.",
+  "fileTypes": [
+   ".jpg",
+   ".png",
+   ".gif"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "5 MB",
+  "gif": {
+   "maxSize": "5 MB",
+   "maxDuration": "not specified",
+   "loops": "not specified",
+   "fps": "max 250 frames"
+  },
+  "rules": [
+   "JPG, PNG or GIF, max 5 MB",
+   "Max image size 7680x4320 px",
+   "Landscape 1.91:1 min 640x360; square min 360x360",
+   "Vertical (4:5) serves mobile only, min 360x640",
+   "Images under 401 px wide display as thumbnails",
+   "Animated GIFs: max 250 frames"
+  ],
+  "bestPractices": {
+   "do": [
+    "Use 1200x1200 square for desktop and mobile",
+    "Use 1200x628 for landscape",
+    "Use 720x900 (4:5) for mobile vertical",
+    "Keep intro text near 150 characters"
+   ],
+   "avoid": [
+    "1.91:1 images in vertical slots (borders added)",
+    "Headline over 70 characters",
+    "Images under 401 px wide",
+    "Relying on vertical for desktop"
+   ],
+   "tips": [
+    "Up to 5 images per ad",
+    "Thumbnails look best between 3:2 and 16:9",
+    "Square and vertical may be cropped in organic share",
+    "Add image alt text for accessibility"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 1200,
+    "h": 628,
+    "label": "Landscape 1.91:1",
+    "retina2x": false,
+    "note": "Recommended; min 640x360"
+   },
+   {
+    "w": 1200,
+    "h": 1200,
+    "label": "Square 1:1",
+    "retina2x": false,
+    "note": "Recommended; min 360x360"
+   },
+   {
+    "w": 720,
+    "h": 900,
+    "label": "Vertical 4:5 (mobile only)",
+    "retina2x": false,
+    "note": "Min 360x640"
+   }
+  ],
+  "sources": [
+   "https://www.linkedin.com/help/lms/answer/a426534",
+   "https://business.linkedin.com/advertise/ads/sponsored-content/single-image-ads-specs"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "high: two official LinkedIn pages agree; GIF duration, loop and fps limits not documented (only 250 frame cap); a 5 MB GIF limit is assumed from the general file cap"
+ },
+ {
+  "id": "amazon-ads",
+  "section": "digital",
+  "name": "Amazon Ads",
+  "logo": "amazon-ads.svg",
+  "summary": "Amazon DSP static display and mobile banner creatives for Amazon-owned and third-party inventory.",
+  "fileTypes": [
+   ".jpg",
+   ".png"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "40-200 KB (by size)",
+  "gif": null,
+  "rules": [
+   "Static formats: JPG or PNG-8 only for DSP image banners",
+   "Max weight: 300x250/728x90/160x600 = 40 KB (50 KB FR, IT, ES, JP)",
+   "Max weight: 300x600 = 50 KB; 970x250 = 200 KB; 320x50 = 50 KB; 414x125 = 100-200 KB",
+   "Mobile sizes must be built @2X (e.g. 640x100 for 320x50); 414x125 @2X is required",
+   "Billboard 970x250 needs a 1940x500 @2X file for onsite (NA)",
+   "Advertiser logo or name required; Amazon links need Amazon logo/text reference",
+   "Min font 16pt at 2X; AdChoices label is overlaid automatically",
+   "Animated GIF is 'permitted but not recommended' in mobile banners",
+   "Third-party served creatives: iframe only; Amazon pixel needed for non-Amazon landing pages"
+  ],
+  "bestPractices": {
+   "do": [
+    "Keep text minimal with a clear headline",
+    "Use a visible 1px non-white border or dark background",
+    "Show the logo and a clear call to action",
+    "Keep key content inside the 640x250 safe zone on 414x125"
+   ],
+   "avoid": [
+    "White backgrounds with no border",
+    "Dense copy that fails at 16pt @2X",
+    "Exceeding KB limits (file is rejected)",
+    "Placing content under the AdChoices corner"
+   ],
+   "tips": [
+    "Export PNG-8 for flat graphics, JPG for photos",
+    "Compress aggressively; 40 KB is tight",
+    "Check market-specific limits before upload",
+    "Sponsored Display custom image (e.g. 415x125, 320x125, 300x250 examples) is cropped and served in many size variants"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 300,
+    "h": 250,
+    "label": "Medium Rectangle",
+    "retina2x": true,
+    "note": "40 KB; mobile @2X 600x500"
+   },
+   {
+    "w": 728,
+    "h": 90,
+    "label": "Leaderboard",
+    "retina2x": true,
+    "note": "40 KB desktop; mobile/tablet @2X 1456x180, 200 KB"
+   },
+   {
+    "w": 160,
+    "h": 600,
+    "label": "Wide Skyscraper",
+    "retina2x": false,
+    "note": "40 KB"
+   },
+   {
+    "w": 300,
+    "h": 600,
+    "label": "Large Rectangle",
+    "retina2x": false,
+    "note": "50 KB"
+   },
+   {
+    "w": 970,
+    "h": 250,
+    "label": "Billboard",
+    "retina2x": true,
+    "note": "200 KB; @2X 1940x500 required onsite; 800x250 Germany only"
+   },
+   {
+    "w": 320,
+    "h": 50,
+    "label": "Mobile Leaderboard",
+    "retina2x": true,
+    "note": "Build 640x100; 50 KB"
+   },
+   {
+    "w": 414,
+    "h": 125,
+    "label": "Mobile Detail / Search Results (custom)",
+    "retina2x": true,
+    "note": "Build 828x250 with 640x250 safe zone; Amazon mobile web/app only"
+   }
+  ],
+  "sources": [
+   "https://advertising.amazon.com/resources/ad-specs/dsp/desktop",
+   "https://advertising.amazon.com/resources/ad-specs/dsp/mobile-banners",
+   "https://advertising.amazon.com/library/guides/sponsored-display-custom-product-image-creative"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "medium-high: DSP sizes/weights from official pages; 414x125 limit differs between pages (100 vs 200 KB); GIF, DPI, color profile not documented (dpi/sRGB are conventional); Sponsored Display custom image has no published file size or format."
+ },
+ {
+  "id": "microsoft-ads",
+  "section": "digital",
+  "name": "Microsoft Advertising",
+  "logo": "microsoft-ads.png",
+  "summary": "Multimedia and Audience ad images used across Bing search and the Microsoft Audience Network, auto-cropped from your uploads.",
+  "fileTypes": [
+   ".jpg",
+   ".png",
+   ".gif"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "5 MB",
+  "gif": null,
+  "rules": [
+   "Accepted MIME types: JPEG, PNG, GIF; images with animation are not supported",
+   "Max file size 5 MB",
+   "Max dimensions 2592 x 2048 px, keeping a supported aspect ratio (e.g. 2592 wide needs 1357 high for 1.91:1)",
+   "Multimedia ads need at least one 1.91:1 and one 1:1 image",
+   "Min sizes: 1.91:1 = 703x368; 1:1 = 470x470; 4:1 = 608x152; 1:2 = 470x940",
+   "Logos: 1:1 min 128x128; 4:1 min 512x128",
+   "Audience ads: one OriginalImage min 703x368; recommended 1200x628"
+  ],
+  "bestPractices": {
+   "do": [
+    "Upload 1200x628 as the main image",
+    "Add a 1:1 version (1200x1200 is a safe size)",
+    "Keep the subject centered for auto-crops",
+    "Provide a logo plus several headlines/descriptions"
+   ],
+   "avoid": [
+    "Animated GIFs (not supported)",
+    "Low-resolution images below minimums",
+    "Heavy text baked into the image",
+    "Key content near the edges"
+   ],
+   "tips": [
+    "Provide extra ratios (4:1, 1:2) to control crops",
+    "Stay below 2592x2048",
+    "Use JPEG for photos, PNG for graphics",
+    "Review crops in the asset editor before launch"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 1200,
+    "h": 628,
+    "label": "Landscape 1.91:1 (recommended)",
+    "retina2x": false,
+    "note": "Min 703x368"
+   },
+   {
+    "w": 1200,
+    "h": 1200,
+    "label": "Square 1:1 (suggested)",
+    "retina2x": false,
+    "note": "Min 470x470; 1200 is a suggested size, not an official recommendation"
+   },
+   {
+    "w": 608,
+    "h": 152,
+    "label": "Banner 4:1 (minimum)",
+    "retina2x": false,
+    "note": "Minimum size; upscale for quality"
+   },
+   {
+    "w": 470,
+    "h": 940,
+    "label": "Portrait 1:2 (minimum)",
+    "retina2x": false,
+    "note": "Minimum size"
+   },
+   {
+    "w": 512,
+    "h": 128,
+    "label": "Landscape logo 4:1 (minimum)",
+    "retina2x": false
+   },
+   {
+    "w": 128,
+    "h": 128,
+    "label": "Square logo (minimum)",
+    "retina2x": false
+   }
+  ],
+  "sources": [
+   "https://learn.microsoft.com/en-us/advertising/campaign-management-service/responsivead?view=bingads-13"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "medium: dimensions, 5 MB and animation rule from official API docs; Microsoft help center and creative-spec pages could not be loaded, so fixed IAB-style display banner sizes were not verified and are omitted; dpi/colorProfile assumed."
+ },
+ {
+  "id": "tiktok-ads",
+  "section": "digital",
+  "name": "TikTok Ads",
+  "logo": "tiktok-ads.svg",
+  "summary": "Still image ads in TikTok Ads Manager and the TikTok Ad Network (formerly Pangle) for apps and publishers.",
+  "fileTypes": [
+   ".jpg",
+   ".jpeg",
+   ".png"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "100 MB per Ad Network table; TikTok playbook suggests 100 KB or less",
+  "gif": null,
+  "rules": [
+   "Accepted image formats: .jpg, .jpeg, .png (no GIF)",
+   "Ad Network image sizes: 1200x628, 640x640, 720x1280",
+   "Ad Network exclusive banners: 600x500, 640x200, 640x100 (Banner placement only)",
+   "Official table lists 100 MB max; playbook recommends 100 KB or less",
+   "Carousel: up to 50 images in the same three sizes (Interstitial/Rewarded)",
+   "Other ratios may show black bars or cut-offs in feed"
+  ],
+  "bestPractices": {
+   "do": [
+    "Supply all three sizes so the system can optimize placement",
+    "Favor 9:16 vertical 720x1280 for in-feed reach",
+    "Keep file small for fast load",
+    "Use bold, simple focal point"
+   ],
+   "avoid": [
+    "Tiny text",
+    "Uploading only one ratio",
+    "Unneeded transparency",
+    "Placing key content where UI overlays appear"
+   ],
+   "tips": [
+    "Preview placements in Ads Manager",
+    "Test square against vertical",
+    "Compress to under 500 KB for speed",
+    "Re-check limits in upload screen, they vary by placement"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 720,
+    "h": 1280,
+    "label": "Vertical 9:16",
+    "retina2x": false
+   },
+   {
+    "w": 1200,
+    "h": 628,
+    "label": "Horizontal 1.91:1",
+    "retina2x": false
+   },
+   {
+    "w": 640,
+    "h": 640,
+    "label": "Square 1:1",
+    "retina2x": false
+   },
+   {
+    "w": 600,
+    "h": 500,
+    "label": "Ad Network Banner",
+    "retina2x": false,
+    "note": "Network-exclusive"
+   },
+   {
+    "w": 640,
+    "h": 200,
+    "label": "Ad Network Banner",
+    "retina2x": false,
+    "note": "Network-exclusive"
+   },
+   {
+    "w": 640,
+    "h": 100,
+    "label": "Ad Network Banner",
+    "retina2x": false,
+    "note": "Network-exclusive"
+   }
+  ],
+  "sources": [
+   "https://ads.tiktok.com/help/article/specifications-for-pangle-ad-assets (via search result text; page fetch failed)",
+   "https://ads.tiktok.com/business/library/Image_Ads_Carousel_Ads_Playbook.pdf (via search result text)"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "medium-low: official TikTok pages were reachable only through search snippets (direct fetch failed); file size is inconsistent (100 MB vs 100 KB advice vs 5 MB header); no official UI safe-zone pixel values retrieved, so uiSafeZone omitted."
+ },
+ {
+  "id": "x-ads",
+  "section": "digital",
+  "name": "X (Twitter) Ads",
+  "logo": "x-ads.svg",
+  "summary": "Image ads and website/app cards promoted in the X timeline.",
+  "fileTypes": [
+   ".jpg",
+   ".png"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "5 MB (help page); 3 MB for cards (Ads API docs)",
+  "gif": null,
+  "rules": [
+   "PNG and JPEG recommended; BMP and TIFF not accepted (help page)",
+   "An uploaded GIF displays as a still image",
+   "Max 5 MB on help page; Ads API card docs say 3 MB or less",
+   "Cards: min width 800 px",
+   "Website cards support 1:1 and 1.91:1; polls, conversation and DM cards 1.91:1",
+   "Post copy 280 characters; each link uses 23"
+  ],
+  "bestPractices": {
+   "do": [
+    "Use 800x418 for 1.91:1 and 800x800 for 1:1",
+    "Stay under 3 MB to satisfy both sources",
+    "Keep text short in the image",
+    "Keep logo visible"
+   ],
+   "avoid": [
+    "BMP or TIFF files",
+    "Relying on GIF animation",
+    "Wrong ratio for the card type",
+    "Tiny copy"
+   ],
+   "tips": [
+    "Use 1.91:1 for most card types",
+    "Design for mobile feed first",
+    "Larger sources (e.g. 1080x1080) are listed on a newer help page",
+    "Check current page in Ads Manager"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 800,
+    "h": 418,
+    "label": "Landscape 1.91:1",
+    "retina2x": false,
+    "note": "Recommended"
+   },
+   {
+    "w": 800,
+    "h": 800,
+    "label": "Square 1:1",
+    "retina2x": false,
+    "note": "Recommended"
+   }
+  ],
+  "sources": [
+   "https://business.x.com/en/help/campaign-setup/creative-ad-specifications (via search result text; fetch returned 402)",
+   "https://docs.x.com/x-ads-api/creatives.md"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "medium-low: help pages blocked direct fetch; help.x.com reportedly lists larger sizes (1080x1080, 2064x1080 etc.) and sources conflict on 3 vs 5 MB and BMP support."
+ },
+ {
+  "id": "pinterest-ads",
+  "section": "digital",
+  "name": "Pinterest Ads",
+  "logo": "pinterest-ads.svg",
+  "summary": "Standard image ads (promoted image Pins) in the Pinterest feed and search.",
+  "fileTypes": [
+   ".jpg",
+   ".png"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "20 MB desktop / 32 MB in-app",
+  "gif": null,
+  "rules": [
+   "Standard image ad accepts PNG or JPEG",
+   "Max 20 MB on desktop, 32 MB in-app",
+   "Recommended 2:3 ratio (1000x1500); wider ads may be cropped in feeds",
+   "Upload PNG in sRGB; uploads convert to 8-bit RGB JPEG, custom profiles unsupported",
+   "Title max 100 characters (first ~40 shown); description max 800",
+   "Faint overlay added to Pins with white or black backgrounds"
+  ],
+  "bestPractices": {
+   "do": [
+    "Use vertical 2:3 images",
+    "Use sRGB",
+    "Write clear title in first 40 characters",
+    "Use high-contrast imagery"
+   ],
+   "avoid": [
+    "Wide landscape images",
+    "Plain white or black backgrounds",
+    "Custom color profiles",
+    "Long text overlays"
+   ],
+   "tips": [
+    "1000x1500 is the official recommendation",
+    "Preview in feed before launch",
+    "Put keyword in title and description",
+    "Keep logo subtle"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 1000,
+    "h": 1500,
+    "label": "Standard Pin 2:3",
+    "retina2x": false,
+    "note": "Recommended; no official minimum found"
+   }
+  ],
+  "sources": [
+   "https://help.pinterest.com/business/article/pinterest-product-specs"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "high for image ad format; no official minimum dimensions or GIF rule found, so gif is null; carousel/collection specs not covered."
+ },
+ {
+  "id": "iab-standard",
+  "section": "digital",
+  "name": "IAB Standard Display",
+  "logo": "iab-standard.svg",
+  "summary": "IAB New Ad Portfolio fixed-size display units that work across most publishers and ad servers.",
+  "fileTypes": [
+   ".jpg",
+   ".png",
+   ".gif"
+  ],
+  "dpi": 72,
+  "colorProfile": "sRGB",
+  "maxFileSize": "50-250 KB (by size, gzip, initial load)",
+  "gif": null,
+  "rules": [
+   "Static image weight follows the initial-load K-weight limit for its size",
+   "Max initial load: 970x250 = 250 KB; 728x90 = 150; 300x250 = 150; 160x600 = 150; 300x1050 = 250; 970x90 = 200; 320x50/300x50 = 50",
+   "Weights are calculated after gzip compression",
+   "Maximum 10 file requests during initial load",
+   "Ads must be clearly distinguishable from page content (e.g. defined border)",
+   "Audio muted by default; IAB spec is 2017 so recheck LEAN guidance"
+  ],
+  "bestPractices": {
+   "do": [
+    "Use a visible border",
+    "Keep CTA and logo clear",
+    "Provide a static backup image",
+    "Compress files to the K-weight limit"
+   ],
+   "avoid": [
+    "Autoplay audio",
+    "Blurry low-resolution exports",
+    "Edge-to-edge text",
+    "Exceeding file request limits"
+   ],
+   "tips": [
+    "300x250, 728x90 and 320x50 cover most inventory",
+    "Export 2x for HiDPI",
+    "Check publisher limits, they can be stricter",
+    "Include a backup image"
+   ]
+  },
+  "sizes": [
+   {
+    "w": 300,
+    "h": 250,
+    "label": "Medium Rectangle",
+    "retina2x": true,
+    "note": "150 KB"
+   },
+   {
+    "w": 728,
+    "h": 90,
+    "label": "Leaderboard",
+    "retina2x": true,
+    "note": "150 KB"
+   },
+   {
+    "w": 970,
+    "h": 250,
+    "label": "Billboard",
+    "retina2x": true,
+    "note": "250 KB"
+   },
+   {
+    "w": 160,
+    "h": 600,
+    "label": "Skyscraper",
+    "retina2x": true,
+    "note": "150 KB"
+   },
+   {
+    "w": 300,
+    "h": 1050,
+    "label": "Portrait",
+    "retina2x": true,
+    "note": "250 KB"
+   },
+   {
+    "w": 970,
+    "h": 90,
+    "label": "Super Leaderboard / Pushdown",
+    "retina2x": true,
+    "note": "200 KB"
+   },
+   {
+    "w": 320,
+    "h": 50,
+    "label": "Smartphone Banner",
+    "retina2x": true,
+    "note": "50 KB; 300x50 also allowed"
+   },
+   {
+    "w": 1080,
+    "h": 1920,
+    "label": "Mobile Phone Interstitial",
+    "retina2x": false,
+    "note": "Also 640x1136 or 750x1334; 300 KB"
+   }
+  ],
+  "sources": [
+   "https://www.iab.com/wp-content/uploads/2019/04/IABNewAdPortfolio_LW_FixedSizeSpec.pdf"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "high for sizes and K-weights (read directly from IAB PDF, 2017); 300x600 is a common market size but not in this PDF; dpi/colorProfile and GIF specifics are not stated by IAB."
+ },
+ {
+  "id": "magazine",
+  "section": "editorial",
+  "name": "Magazine",
+  "logo": "magazine.svg",
+  "summary": "Consumer magazine print ads are supplied as CMYK press-ready PDFs at the publication's trim size plus bleed.",
+  "fileTypes": [
+   ".pdf",
+   ".tif",
+   ".eps"
+  ],
+  "dpi": 300,
+  "colorProfile": "CMYK (SWOP/GRACoL)",
+  "maxFileSize": "Confirm with publication",
+  "bleedIn": 0.125,
+  "safeIn": 0.25,
+  "totalInkLimit": "300%",
+  "unit": "in",
+  "rules": [
+   "Build full-page and spread files at trim plus 0.125in bleed per side; fractional ads usually take no bleed.",
+   "Supply a composite CMYK PDF (PDF/X-1a most commonly requested; X-4 only if the publication accepts it).",
+   "Embed all fonts and images; no RGB, spot or separated files unless the publication requests them.",
+   "Keep live matter 0.25in from trim; many publications ask 0.375-0.5in for full-bleed ads.",
+   "Trim size varies by title (8.5x11 is a common default, 7.875x10.5 also common); confirm with the rate card."
+  ],
+  "bestPractices": {
+   "do": [
+    "Place images at 300dpi at final size.",
+    "Use rich black for large solid areas and 100% K for small text.",
+    "Keep type and logos inside the safe area.",
+    "Flatten transparencies and outline or embed fonts via PDF/X export.",
+    "Request the publication's exact mechanical specs before building."
+   ],
+   "avoid": [
+    "Running critical text or faces across the gutter fold.",
+    "Submitting RGB images or ICC-tagged RGB output.",
+    "Exceeding the ink limit with four-color black text.",
+    "Placing thin reversed type on a four-color background.",
+    "Relying on perfect left/right alignment across a spread."
+   ],
+   "tips": [
+    "Spread crossovers can shift at binding; Afar advises 3/8in safety for critical crossovers.",
+    "Fractional ads may get a 0.30pt rule added by the publisher if edges are undefined.",
+    "Crop marks are typically offset 0.125-0.375in outside the bleed.",
+    "Check whether covers have different specs or require proofs.",
+    "Request a SWOP/GRACoL contract proof when color is critical."
+   ]
+  },
+  "sizes": [
+   {
+    "label": "Full Page",
+    "wIn": 8.5,
+    "hIn": 11,
+    "note": "Trim size; add 0.125in bleed per side (8.75 x 11.25 file). Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "Half Page Horizontal",
+    "wIn": 7,
+    "hIn": 4.75,
+    "note": "Typical non-bleed size on 8.5x11 trim; varies by title. Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "Half Page Vertical",
+    "wIn": 3.375,
+    "hIn": 10,
+    "note": "Typical non-bleed size on 8.5x11 trim; varies by title. Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "Two-Page Spread",
+    "wIn": 17,
+    "hIn": 11,
+    "note": "Trim size; add 0.125in bleed (17.25 x 11.25 file). Keep critical type/imagery about 0.5in either side of the fold. Confirm with rate card.",
+    "cols": null
+   },
+   {
+    "label": "Quarter Page",
+    "wIn": 3.375,
+    "hIn": 4.75,
+    "note": "Typical non-bleed size on 8.5x11 trim; varies by title. Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "Digest Full Page",
+    "wIn": 5.5,
+    "hIn": 8.5,
+    "note": "Digest-format trim (typical); add 0.125in bleed. Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "Full Page (7.875 x 10.5 trim)",
+    "wIn": 7.875,
+    "hIn": 10.5,
+    "note": "Alternate common trim seen in Heat Treat Today and BetterInvesting specs; bleed file 8.125 x 10.75. Confirm with rate card.",
+    "cols": null
+   }
+  ],
+  "sources": [
+   "https://www.afar.com/about/advertise/magazine-specs",
+   "https://advertise.heattreattoday.com/?p=1937",
+   "https://www.betterinvesting.org/getattachment/3c0ae8ee-382f-465c-a28b-f52183f5bf8f/BI-Mag-Production-Guidelines-Aug2024.pdf?lang=en-US",
+   "https://archaeology.org/wp-content/uploads/2025/01/Archaeology-Print-Specs-2025.pdf",
+   "https://www.americasquarterly.org/advertisement-specifications/"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "Medium. Bleed/safety/PDF-X-1a/300dpi corroborated by several magazine spec pages; fractional-page sizes and the 8.5x11 trim are typical defaults, not sourced from one standard. 300% ink is conventional SWOP practice, not fetched from a primary source."
+ },
+ {
+  "id": "newspaper",
+  "section": "editorial",
+  "name": "Newspaper",
+  "logo": "newspaper.svg",
+  "summary": "Newspaper ads are sized in columns by inches (SAU) and supplied as PDF files, usually without bleed and often grayscale or ROP color.",
+  "fileTypes": [
+   ".pdf",
+   ".tif",
+   ".eps"
+  ],
+  "dpi": 200,
+  "colorProfile": "Grayscale or newsprint CMYK (SNAP/Coated-No.5-style newsprint profile; confirm)",
+  "maxFileSize": "Confirm with publication",
+  "bleedIn": 0,
+  "safeIn": 0.25,
+  "totalInkLimit": "240% (typical newsprint; confirm with publication)",
+  "unit": "in",
+  "rules": [
+   "Newspaper ads typically carry NO bleed; build to exact ad size (bleedIn 0).",
+   "Size ads to the publication's column grid: SAU column widths and depth in inches; widths vary by paper.",
+   "Supply PDF (PDF/X-1a or X-4 where requested) with fonts embedded; grayscale unless ROP color is booked.",
+   "Keep type about 0.25in inside the ad edge; border or rule keeps small ads clear of editorial.",
+   "Column widths below use the classic SAU basis (2-1/16in column, 1/8in gutter); many papers now run narrower webs - confirm."
+  ],
+  "bestPractices": {
+   "do": [
+    "Use 100% K for text and avoid four-color black on newsprint.",
+    "Use bold, high-contrast layouts and 9pt+ body type.",
+    "Add a thin border to ads with white backgrounds.",
+    "Request the paper's exact column widths and ad depths.",
+    "Convert to the newsprint or grayscale profile the paper specifies."
+   ],
+   "avoid": [
+    "Fine hairlines and tiny reversed type.",
+    "Heavy total ink coverage that causes dot gain and show-through.",
+    "Building bleed into the file for standard ROP placements.",
+    "Assuming one column width applies across papers.",
+    "Using light tints below about 10% or fine screens."
+   ],
+   "tips": [
+    "Resolution of 200-300dpi is typical; line art 600-1200dpi.",
+    "Ads bill on column-inches, so check depth rounding on the rate card.",
+    "Preprint inserts have their own specs; this entry covers ROP ads.",
+    "Full-page ads often still leave a margin from page edge.",
+    "Test grayscale conversion before sending color art."
+   ]
+  },
+  "sizes": [
+   {
+    "label": "1 Column wide (SAU)",
+    "wIn": 2.0625,
+    "hIn": 6,
+    "note": "Width = 2-1/16in SAU column; 6in depth is an example, depth varies. Common default - confirm with the publication's rate card.",
+    "cols": 1
+   },
+   {
+    "label": "2 Columns wide (SAU)",
+    "wIn": 4.25,
+    "hIn": 5,
+    "note": "Width = 2 x 2-1/16 + 1/8 gutter; 5in depth is an example. Common default - confirm with the publication's rate card.",
+    "cols": 2
+   },
+   {
+    "label": "3 Columns wide (SAU)",
+    "wIn": 6.4375,
+    "hIn": 7,
+    "note": "Width = 3 x 2-1/16 + 2 x 1/8 gutter; 7in depth is an example. Common default - confirm with the publication's rate card.",
+    "cols": 3
+   },
+   {
+    "label": "4 Columns wide (SAU)",
+    "wIn": 8.625,
+    "hIn": 10,
+    "note": "Width = 4 columns plus 3 gutters; 10in depth is an example. Common default - confirm with the publication's rate card.",
+    "cols": 4
+   },
+   {
+    "label": "5 Columns wide (SAU)",
+    "wIn": 10.8125,
+    "hIn": 10,
+    "note": "Width = 5 columns plus 4 gutters; 10in depth is an example. Common default - confirm with the publication's rate card.",
+    "cols": 5
+   },
+   {
+    "label": "6 Columns wide (SAU, full width)",
+    "wIn": 13,
+    "hIn": 10.5,
+    "note": "Width = classic 6-column SAU; 10.5in is an example half-page depth. Modern narrower webs (about 10.75-10.9in six-column) exist. Confirm with rate card.",
+    "cols": 6
+   },
+   {
+    "label": "Broadsheet Full Page",
+    "wIn": 12,
+    "hIn": 21.5,
+    "note": "Approximate printed ad area for a broadsheet page; varies widely by paper. Low confidence - confirm with the publication's rate card.",
+    "cols": 6
+   },
+   {
+    "label": "Tabloid Full Page",
+    "wIn": 10,
+    "hIn": 13,
+    "note": "Approximate printed ad area for a tabloid page (trim about 11 x 14); varies by paper. Low confidence - confirm with rate card.",
+    "cols": 5
+   }
+  ],
+  "sources": [
+   "https://smallbusiness.chron.com/common-newspaper-ad-sizes-41689.html",
+   "https://www.ads-on-line.com/newbasiccourse/Ad_Layout/chapterthree3.html",
+   "https://en.wikipedia.org/wiki/Column_inch",
+   "https://www.njadvancemedia.com/wp-content/uploads/2023/05/et-ad-specs-njam.pdf"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "Low-Medium. 2-1/16in SAU column and 1/8in gutter corroborated; the 2-6 column totals come from a secondary source and one NJ Advance rate card shows a narrower 6-col width (~10.75-10.87in). Example depths, page sizes, dpi and ink limit are typical, not sourced."
+ },
+ {
+  "id": "trade-publication",
+  "section": "editorial",
+  "name": "Trade Publication",
+  "logo": "trade-publication.svg",
+  "summary": "Trade magazines use similar CMYK PDF/X-1a specs to consumer titles, with many using a 7.875 x 10.5in or 8.375 x 10.875in trim.",
+  "fileTypes": [
+   ".pdf",
+   ".tif",
+   ".eps"
+  ],
+  "dpi": 300,
+  "colorProfile": "CMYK (SWOP/GRACoL)",
+  "maxFileSize": "Confirm with publication",
+  "bleedIn": 0.125,
+  "safeIn": 0.5,
+  "totalInkLimit": "300%",
+  "unit": "in",
+  "rules": [
+   "Supply a composite CMYK PDF with PDF/X-1a setting; embed all fonts and graphics.",
+   "Graphics at 300dpi minimum; no color separations.",
+   "Full-page and spread ads bleed 0.125in; fractional ads typically do not bleed.",
+   "Heat Treat Today asks 0.5in live-matter margin from trim on bleed ads; others use 0.25in.",
+   "Trim size differs by title; confirm with each publication's rate card."
+  ],
+  "bestPractices": {
+   "do": [
+    "Build to the exact publication spec sheet.",
+    "Keep logos and text 0.5in from trim on bleed ads for safety.",
+    "Use rich black sparingly and within ink limit.",
+    "Supply a proof if color matching matters.",
+    "Provide fractional ads at exact non-bleed sizes."
+   ],
+   "avoid": [
+    "Mixing RGB and CMYK elements.",
+    "Sending layered or live-font files.",
+    "Placing text across the gutter.",
+    "Using trim size dimensions as bleed file size.",
+    "Assuming sizes are interchangeable between titles."
+   ],
+   "tips": [
+    "Several trades share 7.875 x 10.5in trim; the bleed file is 8.125 x 10.75in.",
+    "Cover positions often have premium or extra specs.",
+    "Some publishers add a rule around undefined fractional ads.",
+    "Check digital and e-newsletter specs separately.",
+    "Ask about ad insertion order deadlines and material due dates."
+   ]
+  },
+  "sizes": [
+   {
+    "label": "Full Page (bleed file)",
+    "wIn": 8.125,
+    "hIn": 10.75,
+    "note": "Includes 0.125in bleed on 7.875 x 10.5in trim. Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "Full Page (trim)",
+    "wIn": 7.875,
+    "hIn": 10.5,
+    "note": "Common trade trim; confirm with rate card.",
+    "cols": null
+   },
+   {
+    "label": "Two-Page Spread (bleed file)",
+    "wIn": 16,
+    "hIn": 10.75,
+    "note": "As listed by Heat Treat Today; confirm with rate card.",
+    "cols": null
+   },
+   {
+    "label": "2/3 Page",
+    "wIn": 4.5,
+    "hIn": 9.5,
+    "note": "Non-bleed (Heat Treat Today). Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "1/2 Page Island",
+    "wIn": 4.5,
+    "hIn": 7.5,
+    "note": "Non-bleed (Heat Treat Today). Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "1/2 Page Horizontal",
+    "wIn": 6.875,
+    "hIn": 4.625,
+    "note": "Non-bleed (Heat Treat Today). Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "1/2 Page Vertical",
+    "wIn": 3.3125,
+    "hIn": 9.5,
+    "note": "Non-bleed (Heat Treat Today). Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "1/3 Page Vertical",
+    "wIn": 2.125,
+    "hIn": 9.5,
+    "note": "Non-bleed (Heat Treat Today). Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "1/3 Page Square",
+    "wIn": 4.5,
+    "hIn": 4.625,
+    "note": "Non-bleed (Heat Treat Today). Common default - confirm with the publication's rate card.",
+    "cols": null
+   },
+   {
+    "label": "1/4 Page Square",
+    "wIn": 3.3125,
+    "hIn": 4.625,
+    "note": "Non-bleed (Heat Treat Today). Common default - confirm with the publication's rate card.",
+    "cols": null
+   }
+  ],
+  "sources": [
+   "https://advertise.heattreattoday.com/?p=1937",
+   "https://www.betterinvesting.org/getattachment/3c0ae8ee-382f-465c-a28b-f52183f5bf8f/BI-Mag-Production-Guidelines-Aug2024.pdf?lang=en-US",
+   "https://asce.org/-/media/asce-images-and-files/sales/documents/geostrata-magazine-display-specs.pdf",
+   "https://www.cues.org/node/2876"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "Medium-Low. Fractional sizes come mainly from one trade title (Heat Treat Today) and differ across publications; PDF/X-1a, 300dpi and 0.125in bleed are corroborated by multiple titles."
+ },
+ {
+  "id": "ooh-print",
+  "section": "editorial",
+  "name": "Out-of-Home Print Poster",
+  "logo": "ooh-print.svg",
+  "summary": "Printed OOH posters and bulletins are produced to vendor-specified panel sizes, usually as large-format PDFs at reduced resolution.",
+  "fileTypes": [
+   ".pdf",
+   ".tif",
+   ".eps"
+  ],
+  "dpi": 150,
+  "colorProfile": "CMYK (vendor profile; confirm)",
+  "maxFileSize": "Confirm with vendor",
+  "bleedIn": 0.5,
+  "safeIn": 1,
+  "totalInkLimit": "Confirm with vendor",
+  "unit": "in",
+  "rules": [
+   "Specs are set by the OOH vendor (e.g. Lamar, Clear Channel Outdoor); confirm before building.",
+   "Common poster panels: 30-sheet (about 11 x 23ft overall) and 14 x 48ft bulletin; art area is smaller than panel.",
+   "Bleed and safe margins vary by vendor; the values here are placeholders - confirm.",
+   "Build at scale (e.g. 1/4 or 1/10 size) at higher effective dpi; confirm vendor rules.",
+   "Provide CMYK PDF with fonts outlined unless vendor instructs otherwise."
+  ],
+  "bestPractices": {
+   "do": [
+    "Use few words and large, high-contrast type.",
+    "Keep key content centered and away from edges.",
+    "Confirm panel size, bleed and scale with the vendor.",
+    "Include a logo and a single clear call to action.",
+    "Check legibility at distance."
+   ],
+   "avoid": [
+    "Small body copy and dense layouts.",
+    "Thin fonts and low-contrast color pairs.",
+    "Placing critical content near panel edges.",
+    "Assuming the same file works across panel types.",
+    "Heavy text or QR codes too small to scan."
+   ],
+   "tips": [
+    "Ask the vendor for a template per panel.",
+    "Effective dpi can be low for large-format viewing distance.",
+    "Most poster copy is read in seconds; aim for about 7 words.",
+    "Confirm illumination (backlit) needs for color.",
+    "Allow lead time for printing and shipping."
+   ]
+  },
+  "sizes": [
+   {
+    "label": "30-Sheet Poster (art area approx.)",
+    "wIn": 269,
+    "hIn": 122,
+    "note": "Approx. 22ft 5in x 10ft 2in art area as commonly cited; low confidence - confirm vendor spec.",
+    "cols": null
+   },
+   {
+    "label": "Bulletin (14 x 48 ft)",
+    "wIn": 576,
+    "hIn": 168,
+    "note": "14ft x 48ft panel in inches; vendor may specify visible area. Confirm with vendor.",
+    "cols": null
+   },
+   {
+    "label": "Mini-Poster / Bus Shelter (4ft x 6ft)",
+    "wIn": 48,
+    "hIn": 72,
+    "note": "Common default 4 x 6ft; confirm with vendor.",
+    "cols": null
+   }
+  ],
+  "sources": [
+   "Not verified via fetched sources; general industry knowledge"
+  ],
+  "verified": "2026-10-13",
+  "confidence": "Low. OOH panel dimensions, dpi and bleed are not backed by sources fetched in this research; treat as placeholders until checked against vendor spec sheets."
+ }
+]

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ad Dimensions Toolkit</title>
+  <meta name="description" content="One toolkit for display and editorial ad specs: dimensions, file types, size limits, rules, best practices and downloadable blank templates.">
+  <link rel="icon" href="assets/favicon.png" type="image/png">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div class="brand">
+        <h1 class="logo-wrap"><img class="brand-logo" src="assets/logo.png" alt="Ad Dimensions Toolkit" width="720" height="209"></h1>
+        <p>Specs, rules and blank templates for every place your ad can run.</p>
+      </div>
+      <div class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M16 16l4.5 4.5"/></svg>
+        <input id="q" type="search" placeholder="Search a platform or size, e.g. 300x250" aria-label="Search platforms or sizes" autocomplete="off">
+      </div>
+    </div>
+    <nav class="wrap tabs" aria-label="Sections">
+      <a href="#digital" data-nav="digital">Digital display <span id="n-digital"></span></a>
+      <a href="#editorial" data-nav="editorial">Editorial <span id="n-editorial"></span></a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section id="digital" aria-labelledby="h-digital">
+      <div class="sec-head">
+        <h2 id="h-digital">Digital display</h2>
+        <p>Still image and GIF ads. RGB, sized in pixels. Video specs are planned for a later version.</p>
+      </div>
+      <div class="list" id="list-digital"></div>
+    </section>
+
+    <section id="editorial" aria-labelledby="h-editorial">
+      <div class="sec-head">
+        <h2 id="h-editorial">Editorial</h2>
+        <p>Magazines, newspapers and print. CMYK, sized in inches with bleed. These are common defaults &mdash; always confirm against the publication&rsquo;s rate card.</p>
+      </div>
+      <div class="list" id="list-editorial"></div>
+    </section>
+
+    <p id="empty" class="empty" hidden>No platform or size matches that search.</p>
+  </main>
+
+  <footer class="wrap foot">
+    <p><strong>Specs are informational.</strong> Platforms change requirements often &mdash; each card shows when it was last checked and the sources used. Spot something stale? Use &ldquo;Report an issue&rdquo; on the card.</p>
+    <p>Platform names and logos are trademarks of their respective owners, shown only to identify each platform. This toolkit is not affiliated with or endorsed by them. Logos from <a href="https://simpleicons.org" rel="noopener">Simple Icons</a> (CC0).</p>
+  </footer>
+
+  <script src="data/hub-data.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

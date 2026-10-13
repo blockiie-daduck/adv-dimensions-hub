@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="1440px" height="2560px" viewBox="0 0 1440 2560">
+<title>Instagram 1440x2560</title>
+<desc>Instagram 1440x2560 | RGB | 72 dpi | guides on locked layers. Delete or hide guide layers before export.</desc>
+<g id="Background" inkscape:groupmode="layer" inkscape:label="Background"><rect width="1440" height="2560" fill="#ffffff"/></g>
+<g id="Artwork" inkscape:groupmode="layer" inkscape:label="Artwork">
+</g>
+<g id="Platform-UI" inkscape:groupmode="layer" inkscape:label="Platform UI" sodipodi:insensitive="true">
+<rect x="0" y="0" width="1440" height="358" fill="rgb(255,160,0)" fill-opacity="0.25"/>
+<rect x="0" y="1664" width="1440" height="896" fill="rgb(255,160,0)" fill-opacity="0.25"/>
+<rect x="0" y="0" width="86" height="2560" fill="rgb(255,160,0)" fill-opacity="0.25"/>
+<rect x="1354" y="0" width="86" height="2560" fill="rgb(255,160,0)" fill-opacity="0.25"/>
+</g>
+<g id="Safe-Zone" inkscape:groupmode="layer" inkscape:label="Safe Zone" sodipodi:insensitive="true">
+<rect x="73.5" y="73.5" width="1293" height="2413" fill="none" stroke="rgb(30,170,80)" stroke-width="3"/>
+</g>
+<g id="Trim" inkscape:groupmode="layer" inkscape:label="Trim" sodipodi:insensitive="true">
+<rect x="1.5" y="1.5" width="1437" height="2557" fill="none" stroke="rgb(0,150,220)" stroke-width="3"/>
+</g>
+<g id="Guides" inkscape:groupmode="layer" inkscape:label="Guides" sodipodi:insensitive="true">
+<line x1="720" y1="0" x2="720" y2="2560" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+<line x1="0" y1="1280" x2="1440" y2="1280" stroke="rgb(160,90,220)" stroke-width="3" stroke-dasharray="18 12"/>
+</g>
+</svg>
